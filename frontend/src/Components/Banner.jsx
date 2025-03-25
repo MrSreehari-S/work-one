@@ -5,8 +5,6 @@ const handleAnimationComplete = () => {
 };
 
 import React, { useContext } from "react";
-import Button from "./Button";
-import { TiLocationArrow } from "react-icons/ti";
 import { AppContext } from "../context/AppContext";
 import Mocktest from "./Mocktest";
 
